@@ -1,9 +1,9 @@
 {
-  "name": "redux-simple-starter",
+  "name": "Weather-Data-App",
   "version": "1.0.0",
-  "description": "Simple starter package for Redux with React and Babel support",
+  "description": "Search your fav city for 5 day weather forecast",
   "main": "index.js",
-  "repository": "git@github.com:StephenGrider/ReduxSimpleStarter.git",
+  "repository": "",
   "scripts": {
     "dev": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "start": "node server.js",
